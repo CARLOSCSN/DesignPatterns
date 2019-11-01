@@ -1,0 +1,11 @@
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.exe
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\bin\Debug\netcoreapp3.0\Singleton.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\obj\Debug\netcoreapp3.0\Singleton.csprojAssemblyReference.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\obj\Debug\netcoreapp3.0\Singleton.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Singleton\obj\Debug\netcoreapp3.0\Singleton.pdb

@@ -1,0 +1,11 @@
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.exe
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\bin\Debug\netcoreapp3.0\FactoryFiles.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\obj\Debug\netcoreapp3.0\FactoryFiles.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\obj\Debug\netcoreapp3.0\FactoryFiles.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\obj\Debug\netcoreapp3.0\FactoryFiles.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\obj\Debug\netcoreapp3.0\FactoryFiles.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\FactoryFiles\obj\Debug\netcoreapp3.0\FactoryFiles.csprojAssemblyReference.cache

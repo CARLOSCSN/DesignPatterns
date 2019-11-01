@@ -1,0 +1,41 @@
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.deps.json
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.json
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.dev.json
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfo.cs
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Users\Carlos Santana\source\repos\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Temp\UP\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.csprojAssemblyReference.cache
+C:\Temp\UP\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfoInputs.cache
+C:\Temp\UP\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfo.cs
+C:\Temp\UP\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.deps.json
+C:\Temp\UP\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.json
+C:\Temp\UP\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.dev.json
+C:\Temp\UP\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Temp\UP\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Temp\UP\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Temp\UP\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\bin\Debug\netcoreapp2.2\TemplateMethod.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.csprojAssemblyReference.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\TemplateMethod\obj\Debug\netcoreapp2.2\TemplateMethod.pdb

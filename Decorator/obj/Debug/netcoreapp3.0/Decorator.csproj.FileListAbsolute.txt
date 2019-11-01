@@ -1,0 +1,11 @@
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.exe
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\bin\Debug\netcoreapp3.0\Decorator.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\obj\Debug\netcoreapp3.0\Decorator.csprojAssemblyReference.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\obj\Debug\netcoreapp3.0\Decorator.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\obj\Debug\netcoreapp3.0\Decorator.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\obj\Debug\netcoreapp3.0\Decorator.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Decorator\obj\Debug\netcoreapp3.0\Decorator.pdb

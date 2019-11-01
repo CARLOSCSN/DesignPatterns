@@ -1,0 +1,30 @@
+C:\Temp\UP\Coposite\bin\Debug\netcoreapp2.2\Coposite.deps.json
+C:\Temp\UP\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.json
+C:\Temp\UP\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.dev.json
+C:\Temp\UP\Coposite\bin\Debug\netcoreapp2.2\Coposite.dll
+C:\Temp\UP\Coposite\bin\Debug\netcoreapp2.2\Coposite.pdb
+C:\Temp\UP\Coposite\obj\Debug\netcoreapp2.2\Coposite.csprojAssemblyReference.cache
+C:\Temp\UP\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfoInputs.cache
+C:\Temp\UP\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfo.cs
+C:\Temp\UP\Coposite\obj\Debug\netcoreapp2.2\Coposite.dll
+C:\Temp\UP\Coposite\obj\Debug\netcoreapp2.2\Coposite.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\bin\Debug\netcoreapp2.2\Coposite.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.csprojAssemblyReference.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Coposite\obj\Debug\netcoreapp2.2\Coposite.pdb

@@ -1,0 +1,41 @@
+C:\Users\carlo\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+C:\Users\carlo\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+C:\Users\carlo\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+C:\Users\carlo\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+C:\Users\carlo\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb
+C:\Temp\UP\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+C:\Temp\UP\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+C:\Temp\UP\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+C:\Temp\UP\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+C:\Temp\UP\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+C:\Temp\UP\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+C:\Temp\UP\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+C:\Temp\UP\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+C:\Temp\UP\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+C:\Temp\UP\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb

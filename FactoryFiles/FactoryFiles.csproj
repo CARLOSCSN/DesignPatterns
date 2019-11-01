@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="confidencial.txt" />
+    <None Remove="publico.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="confidencial.txt" />
+    <EmbeddedResource Include="publico.txt" />
+  </ItemGroup>
+
+</Project>
