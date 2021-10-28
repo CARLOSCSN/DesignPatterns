@@ -11,6 +11,10 @@ namespace Factory
             string sobrenome = null;
 
             int pos = nome.IndexOf(",", StringComparison.Ordinal);
+
+            if (pos == -1)
+                pos = nome.IndexOf(" ", StringComparison.Ordinal);
+
             if (pos != -1)
             {
                 sobrenome = nome.Substring(0, pos).Trim();

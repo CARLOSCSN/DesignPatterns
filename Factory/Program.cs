@@ -27,7 +27,7 @@ namespace Factory
 
             for (int i = 0; i < numeroNomes; i++)
             {
-                Console.WriteLine("Digite o nome completo");
+                Console.WriteLine("Digite o primero e o ultimo nome. Ex. José Silva");
                 listaNomesCompletos.Add(Console.ReadLine()); // HERE !!
             }
 
@@ -36,19 +36,13 @@ namespace Factory
 
             for (int i = 0; i < listaNomesCompletos.Count; i++)
             {
-                if (listaNomesCompletos[i].Contains(","))
-                {
-                    
-                    aplicacaoInvertido.adicionarNome(listaNomesCompletos[i]);
-                }
-                else
-                {
-                    aplicacaoNormal.adicionarNome(listaNomesCompletos[i]);
-                }
+                aplicacaoInvertido.adicionarNome(listaNomesCompletos[i]);
+                aplicacaoNormal.adicionarNome(listaNomesCompletos[i]);
             }
 
             Console.Clear();
             aplicacaoNormal.imprimirNomes();
+            Console.WriteLine("--------------------------------------");
             aplicacaoInvertido.imprimirNomes();
             Console.ReadLine();
         }

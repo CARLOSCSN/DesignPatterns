@@ -9,3 +9,16 @@ C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Factory\bi
 C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Factory\bin\Debug\netcoreapp3.0\Factory.pdb
 C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Factory\obj\Debug\netcoreapp3.0\Factory.dll
 C:\Temp\Design_Pattern_2019_CarlosSantanaNunes_1317653\Files\Solution\Factory\obj\Debug\netcoreapp3.0\Factory.pdb
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.exe
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.deps.json
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.json
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.dev.json
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.dll
+C:\Temp\DesignPatterns\Factory\bin\Debug\netcoreapp3.0\Factory.pdb
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfoInputs.cache
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfo.cs
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.csproj.CoreCompileInputs.cache
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.dll
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.pdb
+C:\Temp\DesignPatterns\Factory\obj\Debug\netcoreapp3.0\Factory.genruntimeconfig.cache
